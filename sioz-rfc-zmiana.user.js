@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        SIOZ-RFC-ZMIANA
-// @namespace   C:\Users\ms7\AppData\Roaming\Mozilla\Firefox\Profiles\20nyl236.default\gm_scripts
+// @namespace   http://sioz.softnet.pl/
 // @include     https://sioz.softnet.com.pl/firma/notka_w.php*
-// @require        http://code.jquery.com/jquery-1.6.4.min.js  
+// @require     http://code.jquery.com/jquery-1.6.4.min.js  
 // @version     0.1
 // @copyright  2012+, Maja
 // ==/UserScript==
