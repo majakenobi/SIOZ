@@ -50,7 +50,7 @@ PROGNOZA CZASU REALIZACJI\n\
 -------------------------\n\n\n\
 WPŁYW NA POZIOM USŁUG\n\
 ---------------------\n\
-nie dotyczy\n\
+nie dotyczy\n\n\n\n\
 									 ";
 								 }
 								 else {
